@@ -14,7 +14,7 @@ This project explores various **machine learning regression models** to predict 
 
 ## 📂 **Dataset**  
 The dataset contains numerical features used to predict a continuous output variable.  
-source: IMDB
+- source: IMDB.
 📌 **Preprocessing Steps:**  
 - Handling missing values  
 - Feature scaling (normalization/standardization)  
